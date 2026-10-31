@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Cyberbadfit?tab=followers"><img src="https://img.shields.io/github/followers/Cyberbadfit?label=Followers&style=for-the-badge&color=38bdf8&labelColor=0b1220" alt="GitHub followers" /></a>
-  <a href="https://github.com/Cyberbadfit?tab=repositories"><img src="https://img.shields.io/badge/Public%20Projects-5-22c55e?style=for-the-badge&labelColor=0b1220" alt="Five public projects" /></a>
+  <a href="https://github.com/Cyberbadfit?tab=repositories"><img src="https://img.shields.io/badge/Public%20Projects-6-22c55e?style=for-the-badge&labelColor=0b1220" alt="Six public projects" /></a>
   <a href="https://github.com/Cyberbadfit"><img src="https://komarev.com/ghpvc/?username=Cyberbadfit&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views" /></a>
 </div>
 
@@ -14,7 +14,7 @@
 
 I’m **Zaid**, a developer from India building polished, practical web experiences. I enjoy turning ideas into responsive full-stack products, exploring security, and growing through open source.
 
-- **Now building:** [Nexus Hackathon 2026](https://github.com/Cyberbadfit/Nexus-Hackathon-2026) — the official web presence for a university hackathon spanning AI/ML, data science, DevOps, computer vision, and full-stack development.
+- **Latest launch:** [Venn Spoke](https://github.com/Cyberbadfit/Venn-Spoke) — a responsive React e-commerce storefront, now live on Vercel.
 - **Working with:** modern JavaScript, responsive UI engineering, APIs, databases, and developer tooling.
 - **Always exploring:** application security, better UX, and solutions that are as usable as they are well engineered.
 
@@ -53,6 +53,28 @@ I’m **Zaid**, a developer from India building polished, practical web experien
       <h3>🔧 C Language Programs</h3>
       <p>Focused C exercises covering fundamentals such as control flow, functions, arrays, pointers, and problem solving.</p>
       <p><a href="https://github.com/Cyberbadfit/C-Language-Programs">Explore repository →</a></p>
+    </td>
+  </tr>
+</table>
+
+## 📌 Current project status
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>🛍️ Venn Spoke <img src="https://img.shields.io/badge/Status-Live-22c55e?style=flat-square" alt="Live" /></h3>
+      <p>A polished React + TypeScript storefront with 34 demo products, responsive layouts, animated cart interactions, INR checkout, a test UPI QR flow, order tracking, and an operations dashboard.</p>
+      <p><strong>Note:</strong> Payments are clearly simulated for safe testing—no real money is collected.</p>
+      <p><a href="https://github.com/Cyberbadfit/Venn-Spoke">View source →</a> · <a href="https://vennspoken.vercel.app/">Open live demo →</a></p>
+    </td>
+    <td width="42%" valign="top">
+      <h4>Release checklist</h4>
+      <ul>
+        <li>✅ Vercel deployment online</li>
+        <li>✅ GitHub Pages build configured</li>
+        <li>✅ Mobile, tablet, and desktop UI</li>
+        <li>🛠️ Production database hardening in progress</li>
+      </ul>
     </td>
   </tr>
 </table>
